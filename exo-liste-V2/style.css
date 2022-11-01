@@ -1,0 +1,7 @@
+ul>li+li{
+    background-color: blue;
+    width: 150px;
+}
+ul>li+li+li{
+    background-color: white;
+}
